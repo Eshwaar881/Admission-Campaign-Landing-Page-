@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Admission Campaign Landing Page
 
 A prototype React landing page for admissions, daycare offers, and demo visit CTAs.
@@ -16,3 +17,6 @@ A prototype React landing page for admissions, daycare offers, and demo visit CT
 - Demo visit scheduling form with date picker
 - Gallery section and family-focused checklist
 - Clean, accessible HTML/CSS and React components
+=======
+# Admission-Campaign-Landing-Page-
+>>>>>>> origin/main
